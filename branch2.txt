@@ -4,9 +4,17 @@ textanto aqui....
 incluindo mais coisas na branch 2...
 
 
+<<<<<<< HEAD
 
 
 Testando 
 o conflito
 
 da branch 2
+=======
+atualizando para a 
+
+
+
+alteração feita direto da branch 1
+>>>>>>> nova_branch
